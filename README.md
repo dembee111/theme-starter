@@ -4,7 +4,7 @@ Dari Modern Online Courses.
 
 ### Documentation
 
-Development documentation is available at `src/docs/index.html` (or `dist/docs/index.html` once you've compiled), or visit https://Dari-af8c4.web.app/docs/index.html.
+https://dari-7f111.web.app/
 
 ### Getting Started
 
@@ -26,8 +26,8 @@ To read the entire license agreement,
 
 check it out here: https://www.pexels.com/
 
-The Dari theme web design, some svg photos and svg icon is Amerigo's own design property
+The Dari theme web design, some svg photos and svg icon is Gegeesoft's own design property
 
 ### Support
 
-Dari Themes is happy to provide support for issues. Shoot us an email at batdemberel_sh@yahoo.com and we'll get you squared away.
+Dari Themes is happy to provide support for issues. Shoot us an email at support@gegeensoft.com and we'll get you squared away.

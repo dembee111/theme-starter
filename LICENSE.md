@@ -22,4 +22,4 @@ The Dari theme web design, some svg photos and svg icon is Amerigo's own design 
 
 ### Questions?
 
-Don't hesitate to hit us up with questions – minion.ck@gmail.com.
+Don't hesitate to hit us up with questions – support@gegeensoft.com.
